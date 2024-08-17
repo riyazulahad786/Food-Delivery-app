@@ -1,12 +1,14 @@
 import { } from 'react'
-import HomePage from './pages/Home'
+import LandingPage from './pages/Home/LandingPage'
+// import HomePage from './pages/Home'
 
 
 function App() {
 
   return (
     <>
-       <HomePage/>
+       {/* <HomePage/> */}
+       <LandingPage/>
     </>
   )
 }

@@ -1,0 +1,14 @@
+.footer_section{
+    background: rgb(248, 248, 248);
+}
+.footer_section li{
+    font-size: 14px;
+    line-height: 2;
+}
+.sub_footer p{
+    font-size: 14px;
+
+}
+.footer_section .store{
+    width: 120px;
+}

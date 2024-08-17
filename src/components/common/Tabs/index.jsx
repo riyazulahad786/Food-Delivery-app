@@ -1,8 +1,10 @@
 import {} from 'react'
 
-function Tabs() {
+function Tabs({activeTabs, setActiveTabs}) {
   return (
-    <div>Tabs</div>
+    <div>
+        
+    </div>
   )
 }
 

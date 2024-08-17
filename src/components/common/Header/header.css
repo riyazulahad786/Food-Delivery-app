@@ -1,0 +1,10 @@
+.logo{
+    width: 120px;
+}
+.navbar input:focus {
+    border: none;
+    outline: none;
+  }
+.navbar input{
+    width: 100%;
+}  
