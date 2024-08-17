@@ -8,3 +8,15 @@ body{
   background-image: url('https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png');
   height: 80vh;
 }
+.hero h1{
+  font-size: 5rem;
+  color: white;
+  font-weight: 900;
+ 
+}
+.hero p{
+  color: white;
+  font-size: 1.7rem;
+  font-weight: 900;
+
+}

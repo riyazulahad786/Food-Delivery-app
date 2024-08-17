@@ -1,9 +1,9 @@
 import {} from 'react'
 
-function Tabs({activeTabs, setActiveTabs}) {
+function Tabs() {
   return (
     <div>
-        
+
     </div>
   )
 }

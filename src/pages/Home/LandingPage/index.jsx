@@ -1,5 +1,5 @@
 import {} from 'react'
-import Header from '../../../components/common/header'
+// import Header from '../../../components/common/header'
 import Footer from '../../../components/common/footer'
 import Hero from '../../../components/Hero'
 
