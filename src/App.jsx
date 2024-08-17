@@ -1,5 +1,5 @@
 import { } from 'react'
-import LandingPage from './pages/Home/LandingPage'
+import LandingPage from './pages/Home/LandingPage/LandingPage'
 // import HomePage from './pages/Home'
 
 
