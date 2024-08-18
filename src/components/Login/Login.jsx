@@ -27,7 +27,7 @@ function Login() {
                  <button className='btn btn-warning'>Sign In With Google</button>
                </div>
                <div className='py-2 mx-1'>
-                 <p>New to zomato ? <NavLink href='/register'>Create Account Here</NavLink></p>
+                 <p>New to zomato ? <NavLink to='/register'>Create Account Here</NavLink></p>
                </div>
             </form>
     </div>

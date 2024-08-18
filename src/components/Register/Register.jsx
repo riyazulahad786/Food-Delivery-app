@@ -41,7 +41,7 @@ function Register() {
         <div>
           <p>
             Already have account ?{" "}
-            <NavLink href="/login" className="login_here">
+            <NavLink to="/login" className="login_here">
               Login Here
             </NavLink>
           </p>
