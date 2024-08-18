@@ -3,7 +3,6 @@ import LandingPage from './pages/Home/LandingPage/LandingPage'
 import {BrowserRouter as Router,Routes,Route} from 'react-router-dom'
 import Login from './components/Login/Login'
 import Register from './components/Register/Register'
-import Header from './components/common/Header/index'
 import Footer from './components/common/Footer/index'
 
 function App() {
@@ -11,7 +10,6 @@ function App() {
   return (
     <>
        <Router>
-       {/* <Header/> */}
           <Routes>
         
              <Route path='/login' element={<Login/>}/>

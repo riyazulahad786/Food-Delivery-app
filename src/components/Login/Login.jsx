@@ -1,5 +1,6 @@
 import {} from 'react'
 import './login.css'
+import { NavLink } from 'react-router-dom'
 function Login() {
   return (
     <div className='container container_wrapper d-flex justify-content-center align-items-center'>
@@ -26,7 +27,7 @@ function Login() {
                  <button className='btn btn-warning'>Sign In With Google</button>
                </div>
                <div className='py-2 mx-1'>
-                 <p>New to zomato ? <a href='/register'>Create Account Here</a></p>
+                 <p>New to zomato ? <NavLink href='/register'>Create Account Here</NavLink></p>
                </div>
             </form>
     </div>

@@ -1,5 +1,6 @@
 import {} from "react";
 import "./register.css";
+import { NavLink } from "react-router-dom";
 function Register() {
   return (
     <div className="container container_wrapper d-flex justify-content-center align-items-center">
@@ -40,9 +41,9 @@ function Register() {
         <div>
           <p>
             Already have account ?{" "}
-            <a href="/login" className="login_here">
+            <NavLink href="/login" className="login_here">
               Login Here
-            </a>
+            </NavLink>
           </p>
         </div>
       </form>
