@@ -15,13 +15,13 @@ function Header() {
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav ms-auto">
         <li className="nav-item">
-          <a className="nav-link active text-white fw-bolder fs-5" aria-current="page" href="#">Add Resturent</a>
+          <a className="nav-link active text-white fw-bolder fs-5" aria-current="page" href="/addresturent">Add Resturent</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-white fw-bolder fs-5" href="#">Login</a>
+          <a className="nav-link text-white fw-bolder fs-5" href="/login">Login</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-white fw-bolder fs-5" href="#">Signup</a>
+          <a className="nav-link text-white fw-bolder fs-5" href="/register">Signup</a>
         </li>
       
       </ul>

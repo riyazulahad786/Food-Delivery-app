@@ -1,0 +1,10 @@
+.form_wrapper{
+    width: 400px;
+}
+.container_wrapper{
+    height: 100vh;
+}
+.line{
+    flex: 1;
+    border-bottom: 1px solid gray;
+}

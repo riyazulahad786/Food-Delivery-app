@@ -1,0 +1,23 @@
+.form_wrapper{
+    width: 400px;
+}
+.container_wrapper{
+    height: 100vh;
+}
+
+
+.line{
+    flex: 1;
+    border-bottom: 1px solid gray;
+}
+.terms{
+    font-size: 14px;
+    font-weight: 400;
+    /* line-height: 2.3; */
+    line-height: 1.2;
+    margin: 2px 12px;
+}
+.login_here{
+    color: red;
+    font-weight: 800;
+}

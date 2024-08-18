@@ -1,22 +1,33 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap");
 
-body{
+body {
   font-family: "Nunito Sans", sans-serif;
   box-sizing: border-box;
 }
-.hero{
-  background-image: url('https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png');
+.hero {
+  background-image: url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png");
   height: 80vh;
 }
-.hero h1{
+.hero h1 {
   font-size: 5rem;
   color: white;
   font-weight: 900;
- 
 }
-.hero p{
+.hero p {
   color: white;
   font-size: 1.7rem;
   font-weight: 900;
-
+}
+.resturent_card {
+  box-shadow: rgba(28, 28, 28, 0.08) 0px 1.42623px 2.85246px;
+  padding: 1rem 1.4rem;
+  border-radius: 0.8rem;
+  background: rgb(255, 255, 255);
+  border: 1px solid rgb(232, 232, 232);
+  margin-bottom: 1.5rem;
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+   cursor: pointer;
 }
