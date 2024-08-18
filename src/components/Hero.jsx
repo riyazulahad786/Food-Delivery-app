@@ -1,5 +1,5 @@
 import {} from 'react'
-import Header from './common/header'
+import Header from './common/Header/index'
 
 function Hero() {
   return (
