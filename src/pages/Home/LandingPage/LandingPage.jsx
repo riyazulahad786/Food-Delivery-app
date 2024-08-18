@@ -9,7 +9,7 @@ function LandingPage() {
     <div>
         <Hero/>
         <Resturants/>
-        <Footer/>
+        {/* <Footer/> */}
     </div>
   )
 }
